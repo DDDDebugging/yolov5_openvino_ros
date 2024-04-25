@@ -1,0 +1,2 @@
+# yolov5_openvino_ros
+将yolov5部署至openvino上并与ros进行通信
